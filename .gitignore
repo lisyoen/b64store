@@ -134,6 +134,3 @@ dist
 *.cmd
 *.ps1
 *.vbs
-
-# data
-*.b64
